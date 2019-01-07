@@ -12,3 +12,5 @@
 - Fix edge case in logic (2019-10-16 11:55:00)
 - Add unit tests (2019-11-15 14:65:00)
 - Clean up temporary files (2019-1-21 15:75:00)
+- Performance tuning (2019-1-7 14:23:00)
+
